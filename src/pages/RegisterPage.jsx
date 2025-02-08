@@ -1,5 +1,5 @@
 import RegisterForm from "../component/layout/Register";
-import AuthForm from "./auth";
+import AuthForm from "./Auth";
 
 const RegisterPage = () => {
   return (
